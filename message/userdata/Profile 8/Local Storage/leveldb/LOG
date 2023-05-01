@@ -1,0 +1,5 @@
+2023/04/29-12:25:58.627 1e4c Reusing MANIFEST C:\Users\user\PycharmProjects\agentail\message\userdata\Profile 8\Local Storage\leveldb/MANIFEST-000001
+2023/04/29-12:25:58.640 1e4c Recovering log #7
+2023/04/29-12:25:58.641 1e4c Level-0 table #10: started
+2023/04/29-12:25:58.919 1e4c Level-0 table #10: 20376 bytes OK
+2023/04/29-12:25:58.970 1e4c Delete type=0 #7

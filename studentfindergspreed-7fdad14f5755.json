@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "studentfindergspreed",
+  "private_key_id": "7fdad14f5755405a817462ceb6c371d16d613b8e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKqND2GNI6qsMR\nTuU6Be0f92tlOpe0bLF0oQ/OP0vgTi53AeV9o8jj7063f0uhz7rIJhQACm3H1Fno\nX0R35McbFL2CNbJn58UwHG/dBqu1S7Y+3HgmVp64se4dDccQ0Zit2IcJb83JrQiN\n9CVsM10T/ntpdUwxTPYL1t2qqfoRG48j8THYTacNc5cyanKDz69z1BXFgj/wSpCE\nWAOyxJS4BhSiYLzV2C/o6TuCmMA4r6fupIwmvAJGFw8gGEBRUnk6JSHc9MTLElxn\nkoehuvCWbvwF5Qom4BKQCfnr3EycnlQWjthps5IFbKy1OkqvSrCYaPrn6o4gQTZV\n0SvMqopLAgMBAAECggEAXV/zB7DgDE/pmOv1Cgr4+qWRQg8BHwyFpuse0TSwzSS4\nm/SvvHfec8crSbjJLED+GoIQ7QPhGRVqZ3qdnXA3nO6tcnUzQlSzsjsn/3q3Ws0L\np2MFqQR4FTlGMPTMJ5+q7U66yUpOUwH60w0OwQ/ZbwDt8+Uruftv0nypnZy7r21k\nXXYqSl9U/lvSVKNkWEQkROYotfDeBeCENEBjwyIV8aqO0b0q/YnDyTbK15+YuxVV\nl1HT/sVpCxioxvqDphdmz6BT2ctLc+9ADRwOPR+zygwJlMks02zSTmWnTOVQQ+AR\n0mQHKBjO4skyr7xjov43AUD46DFqjNhI3F5cN2FWgQKBgQD7G+bMFjXw9GyG4mCK\n8zCiOGTG8nxgVONYjTmf0ooYLi6bgQgVbzCpUY0NXIuiGsiWJx0IeUEXhei/Jc+g\nu92Wc6aERTr3AkfGDk3GL6oDLF2cx3eJUMzFqLOfpYubs3pe/byswtvko0weELQU\nGzG9qXVG3aw0JbLFLClS5MVRUQKBgQDOm1T4ui1rlEo8swM3MVM4bUxmJ56UGJ4s\nBZgQwx3SZ7jhcLvfoz+TLmGbDYMpWlDeVGdfLvowgMBfGvsLfGdhnRh6TnMfAnPO\no6LdyStE5FI/mOGJI7gqL0O4fm8ZnsTjaHbMj+JvmXhxrJG28JfUc4NnL6Do5c/x\n9EBPRu/a2wKBgQCE8ZOyjzvFsxJWIznrtq8T43lvXuf8dFTdB//vHp9gB+tDBwBJ\noNGJgxSDc3C1xSpXXKPhXZjZpFrCAHm5Zlz9j4MkWibKqZloQSBqAcgn3/A71dry\nhyWyrAtVRWbxawcpjXq7mHqkxNPCwyMj1fXyrOnbN/c4sJDCFQxXx6iz0QKBgQCd\nHYbat0o/Gz/xNPjnCf2NVaDZtptjZ+0w8PgZFyggj3wLBJ36jbyVApp7PSVXVzVU\nPb92pNTh+adRK8VpkKtVkg/BQtNM66KBq/L40jizZSYe8vXgQmeUvOi07oEybIix\nnwlouqqpz33GhEMzaXcsusNcvt2Q/uLJzsLxBrL0LQKBgGxC0qp0MKse0DlVe6UA\nmXa/lhfCmyZXcDoevGRBjj1skwO1ncK7CksEOOQIzjWsaJgEGO4UTemheVVuNnqX\nrUlrSvl4AyRuRvRzUGJnPkpJorZeSLRGi04q4R8Fu3i5YzsXhfhI120gk5XrHF0E\nOt5cksocIaQqdZSowvCtpt8R\n-----END PRIVATE KEY-----\n",
+  "client_email": "studentfinder@studentfindergspreed.iam.gserviceaccount.com",
+  "client_id": "115448315515921998288",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/studentfinder%40studentfindergspreed.iam.gserviceaccount.com"
+}
