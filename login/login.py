@@ -14,10 +14,10 @@ class Login:
         # print(input("Inside class and function :"))
         try:
             # I use environment variable  base on this tutorials https://www.youtube.com/watch?v=IolxqkL7cD8
-            FACEBOOK_USERNAME = os.getenv("FACEBOOK_USERNAME", "")
-            FACEBOOK_PASSWORD = os.getenv("FACEBOOK_PASSWORD", "")
-            # FACEBOOK_USERNAME = os.environ.get('facebook_email')
-            # FACEBOOK_PASSWORD = os.environ.get('facebook_pass')
+            # FACEBOOK_USERNAME = os.getenv("FACEBOOK_USERNAME", "")
+            # FACEBOOK_PASSWORD = os.getenv("FACEBOOK_PASSWORD", "")
+            FACEBOOK_USERNAME = os.environ.get('facebook_email')
+            FACEBOOK_PASSWORD = os.environ.get('facebook_pass')
             # print(FACEBOOK_PASSWORD)
             # print(input("...:"))
             driver.find_element(By.NAME, "email").send_keys(FACEBOOK_USERNAME)
